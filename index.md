@@ -12,6 +12,12 @@ I'm a **third year** undergrad student majoring in ***Computer Engineering*** th
 * Doing small and simple arduino projects
 * Going out on long walks
 
+### Class Goals
+- [x] Reach out to others in CSE 110
+- [ ] Learn and get exposed to software engineering in CSE 110
+- [ ] Pass CSE 110
+
+
 ### Programming Rankings
 Here's my ranking so far of the programming languages I've experienced so far:
 1. Python/Arduino
@@ -49,15 +55,12 @@ float Q_rsqrt(float number)
 }
 ```
 
-### Contact Me
-Email: <k1vuong@ucsd.edu>
-
-Github: [https://github.com/kennethkietvuong](https://github.com/kennethkietvuong){:target="_blank"}
 
 ### Random Images
 I have a *bunch* of random images that are lying around on my computer. What better way to deal with these images than to share them [here](random.md)?
 
-### Goals
-- [x] Reach out to others in CSE 110
-- [ ] Learn and get exposed to software engineering in CSE 110
-- [ ] Pass CSE 110
+
+## Contact Me
+Email: <k1vuong@ucsd.edu>
+
+Github: [https://github.com/kennethkietvuong](https://github.com/kennethkietvuong){:target="_blank"}

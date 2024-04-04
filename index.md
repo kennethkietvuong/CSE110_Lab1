@@ -29,7 +29,7 @@ Here's my ranking so far of the programming languages I've experienced so far:
 > Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime.
 
 ### Favorite Block of Code
-My favorite block of code is the fast inverse square root from Quake! I thought that the comments were funny and ~~amusing~~ interesting :smile:. Check out the wikipedia [here](https://en.wikipedia.org/wiki/Fast_inverse_square_root)!
+My favorite block of code is the fast inverse square root from Quake! I thought that the comments were funny and ~~amusing~~ interesting :smile:. Check out the wikipedia [here](https://en.wikipedia.org/wiki/Fast_inverse_square_root){:target="_blank"}!
 ```c
 float Q_rsqrt(float number)
 {
@@ -51,12 +51,11 @@ float Q_rsqrt(float number)
 
 ### Contact Me
 Email: <k1vuong@ucsd.edu>
-Github: [https://github.com/kennethkietvuong](https://github.com/kennethkietvuong)
 
-### Test
+Github: [https://github.com/kennethkietvuong](https://github.com/kennethkietvuong){:target="_blank"}
 
-[Dancing Penguin](images/gifs/club-penguin-dance.gif)
-
+### Random Images
+I have a *bunch* of random images that are lying around on my computer. What better way to deal with these images than to share them [here](random.md)?
 
 ### Goals
 - [x] Reach out to others in CSE 110

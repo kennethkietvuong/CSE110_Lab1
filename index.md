@@ -1,4 +1,4 @@
-# Hey there :wave:, I'm Kenneth.
+# Hey there 👋, I'm Kenneth.
 
 <div style="text-align: center;">
     <img src="images/myself.jpg" width="250" height="">
@@ -29,7 +29,7 @@ Here's my ranking so far of the programming languages I've experienced so far:
 > Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime.
 
 ### Favorite Block of Code
-My favorite block of code is the fast inverse square root from Quake! I thought that the comments were funny and ~~amusing~~ interesting :smile:. Check out the wikipedia [here](https://en.wikipedia.org/wiki/Fast_inverse_square_root){:target="_blank"}!
+My favorite block of code is the fast inverse square root from Quake! I thought that the comments were funny and ~~amusing~~ interesting  😄 . Check out the wikipedia [here](https://en.wikipedia.org/wiki/Fast_inverse_square_root){:target="_blank"}!
 ```c
 float Q_rsqrt(float number)
 {

@@ -7,6 +7,8 @@
 ## About Me:
 I'm a **third year** undergrad student majoring in ***Computer Engineering*** that is interested in both the *software and hardware application of systems*. I'm more invested and interested in learning more about the hardware side of things (dealing with all of the circuitry, components, and such) when compared to all of the theory/abstract classes that I have took so far in the side of CS.
 
+![circuit stock image](images/circuit_stock_image.jpg)
+
 ### Hobbies
 * Playing video games
 * Doing small and simple arduino projects

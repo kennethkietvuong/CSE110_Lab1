@@ -61,6 +61,15 @@ float Q_rsqrt(float number)
 ### Random Images
 I have a *bunch* of random images that are lying around on my computer. What better way to deal with these images than to share them [here](random.md)?
 
+### Section Link Section
+Below are section/anchor links going to the above sections:
+
+[About Me](#about-me)
+[Hobbies](#hobbies)
+[Class Goals](#class-goals)
+[Programming Rankings](#programming-rankings)
+[Favorite Programming Quotes](#favorite-programming-quotes)
+[Favorite Block of Code](#favorite-block-of-code)
 
 ## Contact Me
 Email: <k1vuong@ucsd.edu>
